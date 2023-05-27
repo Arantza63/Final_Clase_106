@@ -1,0 +1,38 @@
+body {
+    font-family: 'udnbounded', cursive;
+    background: #00ff80;
+}
+
+.header_div {
+    background: #ffc2ff;
+    color: #006eff;
+}
+
+.header_div p {
+    font-family: 'roboto', sans-serif;
+    color: #6600ff;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    background: #8c00ff;
+    color: #006eff;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 30px;
+    width: 130px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #004cff;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #00ffbf;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
